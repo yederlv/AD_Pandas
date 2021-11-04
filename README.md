@@ -11,3 +11,6 @@ Por Yeder Laura Vicente Dev [ELIA](https://www.linkedin.com/company/escuelaia/)
 <img src='https://cdn.icon-icons.com/icons2/895/PNG/512/Twitter_icon_icon-icons.com_69154.png' height="30px" width ="30px"/></a>
 <a title="Yeder Laura Vicente" href="https://www.linkedin.com/in/yederlvicente/">
 <img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' height="30px" width ="30px" HSPACE="20"/></a>
+<a title="Notebook - Colab" href="https://www.linkedin.com/in/yederlvicente/">
+<img src='https://miro.medium.com/max/776/1*Eb4YFMdn8LJhxjJCuykiLg.png' height="30px" width ="70px"/></a>
+
